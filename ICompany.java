@@ -2,6 +2,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.SortedSet;
 
+//interface
 public interface ICompany {
 
 	void addEmployee(String department, Employee employee);
